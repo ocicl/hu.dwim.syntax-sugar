@@ -1,0 +1,9 @@
+* hu.dwim.syntax-sugar
+
+Framework to introduce and work with syntax sugars in Common Lisp.
+
+|---------+---------------------------------------------------------|
+| source  | git:https://github.com/hu-dwim/hu.dwim.syntax-sugar.git |
+| commit  | 0927cf2                                                 |
+| systems | hu.dwim.syntax-sugar                                    |
+|---------+---------------------------------------------------------|
