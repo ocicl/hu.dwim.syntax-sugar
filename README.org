@@ -7,4 +7,4 @@ Framework to introduce and work with syntax sugars in Common Lisp.
 | commit  | 0927cf2                                                 |
 | systems | hu.dwim.syntax-sugar                                    |
 |---------+---------------------------------------------------------|
- 
+  
